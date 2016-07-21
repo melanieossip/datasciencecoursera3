@@ -1,2 +1,2 @@
-Enter file contents here##md
+git add.##md
 git push sun stars moon
